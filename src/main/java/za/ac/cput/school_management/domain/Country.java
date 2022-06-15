@@ -3,7 +3,7 @@ package za.ac.cput.school_management.domain;
  *
  * Humaam Mohamed
  * 214044750
- * Country Entity
+ * Country Entity.
  *
  */
 public class Country {
